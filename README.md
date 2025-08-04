@@ -1,5 +1,9 @@
 # AtliQ Hardwre - End To End Project (SQL+PowerBI+Excel)</br></br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMjZmMTYxNzgtMTVlNC00M2U3LWJkODYtZTM4YjYyN2ZjMzYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0e043e404b13ec86da91"><H2><Mark> Live Report</mark></a>
+</br></br>
+
+Data Modelling View:</br></br><img width="1118" height="760" alt="image" src="https://github.com/user-attachments/assets/93c217dd-e7dc-435f-afeb-854b0c878ce5" />
+
 
 <h3>This report Conatins:</br></br>
 <li>Info View</li></br>
