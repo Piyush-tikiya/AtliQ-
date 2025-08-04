@@ -1,5 +1,5 @@
 # AtliQ Hardwre - End To End Project (SQL+PowerBI+Excel)</br></br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMjZmMTYxNzgtMTVlNC00M2U3LWJkODYtZTM4YjYyN2ZjMzYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0e043e404b13ec86da91"><H2><Mark> Live Report</mark></a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMjZmMTYxNzgtMTVlNC00M2U3LWJkODYtZTM4YjYyN2ZjMzYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0e043e404b13ec86da91">Live Report</a>
 </br></br>
 
 Data Modelling View:</br></br><img width="1118" height="760" alt="image" src="https://github.com/user-attachments/assets/93c217dd-e7dc-435f-afeb-854b0c878ce5" />
@@ -53,7 +53,7 @@ Result: Top management can now improve supply chain planning and mitigate risks 
 </br></br>
 <img width="1391" height="731" alt="image" src="https://github.com/user-attachments/assets/b4432122-eb24-4bc8-9885-b571db9213b0" />
 </br></br>
-Check Interactive Dashboard:<a href="https://app.powerbi.com/view?r=eyJrIjoiMjZmMTYxNzgtMTVlNC00M2U3LWJkODYtZTM4YjYyN2ZjMzYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0e043e404b13ec86da91"><H2>Live Report</a>
+Check Interactive Dashboard:<a href="https://app.powerbi.com/view?r=eyJrIjoiMjZmMTYxNzgtMTVlNC00M2U3LWJkODYtZTM4YjYyN2ZjMzYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0e043e404b13ec86da91">Live Report</a>
 </br></br>
 Combined Result: 
 <li>The integrated insights from all views reduced decision-making errors by an average of 17%, enabling top management to implement strategies that yielded a 10% gain in overall business performance (e.g., 3% profit margin increase, 2.5% revenue growth, 1.5% sales uplift, 2% strategic alignment, and 1% cost saving).
