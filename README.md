@@ -2,6 +2,7 @@
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMjZmMTYxNzgtMTVlNC00M2U3LWJkODYtZTM4YjYyN2ZjMzYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0e043e404b13ec86da91">Live Report</a>
 </br></br>
 
+
 <h1>Project Overview</h1>
 </br></br>
 AtliQ Hardware has been growing fast in recent years, expanding its business across global markets. With this growth came a massive surge in the amount of data being generated.
@@ -20,7 +21,17 @@ Why MySQL?</br>
 <li>✅ Supports multi-user collaboration</li></br>
 <li>✅ Secure and reliable for enterprise-level data</li></br>
 
-This shift not only solved the performance issues but also unlocked opportunities for advanced analytics, real-time dashboards, and data-driven decision-making. With Power BI on top of MySQL, the company can now provide actionable insights for finance, sales, marketing, and supply chain teams—helping them stay ahead in a competitive market.
+This shift not only solved the performance issues but also unlocked opportunities for advanced analytics, real-time dashboards, and data-driven decision-making. With Power BI on top of MySQL, the company can now provide actionable insights for finance, sales, marketing, and supply chain teams—helping them stay ahead in a competitive market.</br></br>
+
+
+
+<img width="1281" height="717" alt="image" src="https://github.com/user-attachments/assets/d1a9149f-0fa6-4ad1-97a1-e0a696daf2e5" />
+</br></br>
+<img width="1287" height="732" alt="image" src="https://github.com/user-attachments/assets/130e63cb-fbb9-431c-871e-ecda374c1a6e" />
+
+
+
+
 
 <h1>Importing Data into Power BI</h1></br>
 
