@@ -109,6 +109,15 @@ Check Interactive Dashboard:<a href="https://app.powerbi.com/view?r=eyJrIjoiMjZm
 
 <h1>What challenges did I face while building this project?</h1>
 
+<h5>Challenge:</h5>
+While creating the Profit & Loss statement in Power BI, I needed the line items (like Revenue, COGS, Gross Profit, etc.) to always appear in a fixed sequence with their corresponding values — even when filters or slicers were applied. By default, Power BI reorders items alphabetically or by value, which broke the standard P&L format.
+
+<h5>Solution:</h5>
+I created a separate P&L mapping table with a sequence number assigned to each line item. Then, I used the “Sort By Column” feature in Power BI to sort line items by this sequence number instead of name or value. This ensured the correct order was maintained under all filter conditions.</br>
+
+<img width="637" height="303" alt="image" src="https://github.com/user-attachments/assets/3ed57cb4-405e-412c-a764-1a51dff1e467" />
+
+
 <h3>KPI Logic in DAX:</h3>
 
 <h5>Challenge:</h5> Some KPIs like YTD, Gross Margin %, and dynamic titles were tricky to implement with DAX at first.</br>
