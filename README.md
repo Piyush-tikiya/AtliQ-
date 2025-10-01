@@ -107,8 +107,13 @@ Result: Top management can now improve supply chain planning and mitigate risks 
 Check Interactive Dashboard:<a href="https://app.powerbi.com/view?r=eyJrIjoiMjZmMTYxNzgtMTVlNC00M2U3LWJkODYtZTM4YjYyN2ZjMzYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0e043e404b13ec86da91">Live Report</a>
 </br></br>
 <Br>
-<h1>Validating Numbers</h1>
-After publishing the dashboard, I carefully review and verify all the figures displayed in the report before sharing it with senior management and the respective teams.
+<h1>User Acceptance Testing (UAT) & Data Validation in Power BI</h1>
+
+In this project, I performed User Acceptance Testing (UAT) as the first round of testing with end-users to identify and fix obvious issues before rolling out the solution to a wider audience.
+
+I then published the reports to the Power BI Service, the cloud platform where end users access dashboards.
+
+As a best practice, I exported the data from the report to Excel (using Analyze in Excel) and carried out data validation with Pivot Tables to ensure accuracy and consistency before sharing the final dashboards with stakeholders.
 
 https://github.com/Piyush-tikiya/AtliQ-/blob/main/Validating%20numbers.png
 
