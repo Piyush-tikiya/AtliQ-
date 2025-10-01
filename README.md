@@ -106,13 +106,13 @@ Result: Top management can now improve supply chain planning and mitigate risks 
 </br></br>
 Check Interactive Dashboard:<a href="https://app.powerbi.com/view?r=eyJrIjoiMjZmMTYxNzgtMTVlNC00M2U3LWJkODYtZTM4YjYyN2ZjMzYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0e043e404b13ec86da91">Live Report</a>
 </br></br>
+<Br>
+<h1>Validating Numbers</h1>
+After publishing the dashboard, I carefully review and verify all the figures displayed in the report before sharing it with senior management and the respective teams.
+
+https://github.com/Piyush-tikiya/AtliQ-/blob/main/Validating%20numbers.png
 
 <h1>What challenges did I face while building this project?</h1>
-
-<Br>
-Validating Numbers
-<br>
-After publishing the dashboard, I carefully review and verify all the figures displayed in the report before sharing it with senior management and the respective teams.
 
 
 <h5>Challenge:</h5>
