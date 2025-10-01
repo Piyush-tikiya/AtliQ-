@@ -109,6 +109,12 @@ Check Interactive Dashboard:<a href="https://app.powerbi.com/view?r=eyJrIjoiMjZm
 
 <h1>What challenges did I face while building this project?</h1>
 
+<Br>
+Validating Numbers
+<br>
+After publishing the dashboard, I carefully review and verify all the figures displayed in the report before sharing it with senior management and the respective teams.
+
+
 <h5>Challenge:</h5>
 While creating the Profit & Loss statement in Power BI, I needed the line items (like Revenue, COGS, Gross Profit, etc.) to always appear in a fixed sequence with their corresponding values — even when filters or slicers were applied. By default, Power BI reorders items alphabetically or by value, which broke the standard P&L format.
 
