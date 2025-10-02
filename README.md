@@ -119,6 +119,20 @@ Check Interactive Dashboard:<a href="https://app.powerbi.com/view?r=eyJrIjoiMjZm
 </br></br>
 Live Report: <a href="https://app.powerbi.com/reportEmbed?reportId=a8a10878-73f6-4ccc-9ee8-f6093a6e3a38&appId=8348e1ce-2755-4216-9f20-d00738a114b6&autoAuth=true&ctid=ddba3c23-5070-4786-b604-618866e2d4d0">Live Report</a></br></br>
 <Br>
+
+<h1> Optmised Report By using external tool "DAX STUDIO" </h1><br><br>
+<li> Disabled the load of unnecessary columns to reduce data model size and improve performance.</li><br>
+<li> Applied query folding to extract only the required columns from source tables.</l1><br><br>
+<li> Utilized DAX variables for cleaner and more efficient calculations.</l1><br><br>
+<li> Replaced most calculated columns with DAX measures to optimize performance.</l1><br><br>
+<li> Designed a hybrid schema (star + snowflake) to balance flexibility and efficiency in reporting.</l1><br><br>
+<li> I mplemented a dedicated date table to ensure accurate time intelligence and smooth relationships across tables.</l1><br><br><br>
+
+
+
+<img width="1361" height="694" alt="image" src="https://github.com/user-attachments/assets/057b636a-732c-4e30-a2d9-09a229e31ed9" /><br><br>
+
+
 <h1>User Acceptance Testing (UAT) & Data Validation in Power BI</h1>
 
 In this project, I performed User Acceptance Testing (UAT) as the first round of testing with end-users to identify and fix obvious issues before rolling out the solution to a wider audience.
