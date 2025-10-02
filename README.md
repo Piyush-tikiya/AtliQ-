@@ -185,5 +185,8 @@ The integrated insights from all views reduced decision-making errors by an aver
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMjZmMTYxNzgtMTVlNC00M2U3LWJkODYtZTM4YjYyN2ZjMzYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0e043e404b13ec86da91">Live Report</a>
 
+<h1>Generated Ad-Hoc Queries</h1>
+<a href = "https://github.com/Piyush-tikiya/AtliQ-/blob/main/Consumer%20good%20insights%20SQL%20queries.sql">AD-HOC REPORT</a>
+
 <h1>📬 Talk to Me </h1></br>
 If you liked this project or have any suggestions, feel free to connect with me on <a href= "https://www.linkedin.com/in/piyushtikiya07">LinkedIn</a>
