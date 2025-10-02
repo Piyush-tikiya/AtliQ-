@@ -73,7 +73,8 @@ Task: Build a view to consolidate and analyze financial performance metrics.</br
 Action: Designed the Finance View with P&L statements, key metrics like Net Sales and Gross Margin, and a profitability/Growth matrix for any customer/product/country aggregation.</br></br>
 Result: Top management can now evaluate financial health and identify growth opportunities effectively.
 </br></br>
-<img width="1385" height="732" alt="image" src="https://github.com/user-attachments/assets/c0b7299f-b9ad-4ecd-a6bf-35e341a1d5bd" />
+<img width="1385" height="732" alt="image" src="https://github.com/user-attachments/assets/c0b7299f-b9ad-4ecd-a6bf-35e341a1d5bd"><br><<br>
+Live Report: <a href="https://app.powerbi.com/reportEmbed?reportId=a8a10878-73f6-4ccc-9ee8-f6093a6e3a38&appId=8348e1ce-2755-4216-9f20-d00738a114b6&autoAuth=true&ctid=ddba3c23-5070-4786-b604-618866e2d4d0">Live Report</a></br></br>
 
 </br>
 <h1>Sales View:</h1>
@@ -85,6 +86,8 @@ Result: Top managementcan now track sales efficiency and optimize customer-focus
 </br></br>
 <img width="1390" height="740" alt="image" src="https://github.com/user-attachments/assets/ea7a822e-f1e1-4b41-bab1-7457feada9a9" />
 </br></br>
+Live Report: <a href="https://app.powerbi.com/reportEmbed?reportId=a8a10878-73f6-4ccc-9ee8-f6093a6e3a38&appId=8348e1ce-2755-4216-9f20-d00738a114b6&autoAuth=true&ctid=ddba3c23-5070-4786-b604-618866e2d4d0">Live Report</a></br></br>
+
 
 <h1>Marketing View:</h1></br>
 
@@ -95,6 +98,8 @@ Result: Top management can now make data-driven marketing decisions to enhance p
 </br></br>
 <img width="1402" height="735" alt="image" src="https://github.com/user-attachments/assets/ccb78955-6429-4621-9184-8e417194f86a" />
 </br></br>
+Live Report: <a href="https://app.powerbi.com/reportEmbed?reportId=a8a10878-73f6-4ccc-9ee8-f6093a6e3a38&appId=8348e1ce-2755-4216-9f20-d00738a114b6&autoAuth=true&ctid=ddba3c23-5070-4786-b604-618866e2d4d0">Live Report</a></br></br>
+
 <h1>Supply Chain View:</h1></br></br>
 
 Situation: Supply chain operations lacked visibility into forecast accuracy and risks.</br></br>
@@ -106,6 +111,7 @@ Result: Top management can now improve supply chain planning and mitigate risks 
 </br></br>
 Check Interactive Dashboard:<a href="https://app.powerbi.com/view?r=eyJrIjoiMjZmMTYxNzgtMTVlNC00M2U3LWJkODYtZTM4YjYyN2ZjMzYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0e043e404b13ec86da91">Live Report</a>
 </br></br>
+Live Report: <a href="https://app.powerbi.com/reportEmbed?reportId=a8a10878-73f6-4ccc-9ee8-f6093a6e3a38&appId=8348e1ce-2755-4216-9f20-d00738a114b6&autoAuth=true&ctid=ddba3c23-5070-4786-b604-618866e2d4d0">Live Report</a></br></br>
 <Br>
 <h1>User Acceptance Testing (UAT) & Data Validation in Power BI</h1>
 
