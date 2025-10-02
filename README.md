@@ -121,7 +121,15 @@ I then published the reports to the Power BI Service, the cloud platform where e
 
 As a best practice, I exported the data from the report to Excel (using Analyze in Excel) and carried out data validation with Pivot Tables to ensure accuracy and consistency before sharing the final dashboards with stakeholders.
 
-https://github.com/Piyush-tikiya/AtliQ-/blob/main/Validating%20numbers.png
+https://github.com/Piyush-tikiya/AtliQ-/blob/main/Validating%20numbers.png <br><br>
+
+<h1> ✅ Test Subscription Alert – Successfully Configured and Running </h1>
+
+<img width="1956" height="1008" alt="subscription" src="https://github.com/user-attachments/assets/93c87365-fc6e-45c1-b845-42ded6f5c989" /><br><br>
+<img width="1880" height="945" alt="Mail reccived" src="https://github.com/user-attachments/assets/4f84ee9c-7ace-43f4-986f-16ae129beaec" />
+
+
+
 
 <h1>What challenges did I face while building this project?</h1>
 
