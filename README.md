@@ -29,7 +29,13 @@ This shift not only solved the performance issues but also unlocked opportunitie
 </br></br>
 <img width="1287" height="732" alt="image" src="https://github.com/user-attachments/assets/130e63cb-fbb9-431c-871e-ecda374c1a6e" />
 
-
+<h1>Agile Methodology</h1><br><br>
+This project was managed using Agile principles** to ensure iterative delivery and stakeholder alignment. Key practices included:<br><br>
+- 🕒 Daily Stand-ups (15–20 mins): Quick sync-ups to track progress, blockers, and priorities.  <br>
+- 🏁 Sprints (2–3 weeks): Each sprint delivered a working increment of the dashboard.  <br>
+- ✅ Deliverables per Sprint:** User stories and tasks were broken down into smaller features and completed incrementally.  <br>
+- 👥 Scrum Ceremonies:Sprint Planning, Review, and Retrospective were conducted to refine backlog, showcase progress, and improve team efficiency.  <br>
+- 📝 User Tasks: Defined in the backlog with acceptance criteria for clear tracking of progress and accountability.  
 
 
 
